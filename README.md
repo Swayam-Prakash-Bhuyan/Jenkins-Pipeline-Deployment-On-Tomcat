@@ -26,7 +26,7 @@ java -jar jenkins.war -httpPort=8082
 ### Configure Global Tools
 
 - Go to **Manage Jenkins** > **Global Tool Configuration**.
-- Configure installed tools like JDK 11 and OWASP Dependency Check.
+- Configure installed tools like JDK 11, Maven and OWASP Dependency Check.
 
 ### Configure System
 
