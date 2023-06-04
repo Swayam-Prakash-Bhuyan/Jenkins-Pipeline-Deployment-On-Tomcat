@@ -3,6 +3,7 @@
 ## Install Jenkins
 
 1. Go to the Jenkins website and download the Jenkins WAR file:
+
 wget https://updates.jenkins.io/download/war/2.387.3/jenkins.war
 
 
